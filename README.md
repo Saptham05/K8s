@@ -63,3 +63,7 @@ Examples of few frequently used commands are:
 kubectl apply -f file.yaml   #Create a resource from file
 kubectl get pods             #List all pods in the default namespace
 kubectl describe svc my_svc  #Describes about the specified service
+sqa_619064b7d681b6dc9ed95e055383bd8c4a18f16e
+
+...
+squ_b989930248a75606a5c58e6de53e66080f5cadc7
